@@ -35,7 +35,6 @@ The data has one row per shipment line, with product, vendor, country, shipment 
 | 3_Delivery | Q3: on-time %, lead time, vendor scorecard, and vendor lookup |
 | 4_Prices | Q4: price trend, price lookup, generic vs. branded |
 | Dashboard | KPIs and charts with Year, Mode, and Product Group filters |
-| Dash_Data | Calculations that feed the dashboard |
 | Findings | Five findings and their limits |
 
 ## How I cleaned the data
