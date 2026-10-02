@@ -3,6 +3,7 @@
 An Excel analysis of 10,324 HIV and malaria medicine shipments that USAID delivered to 43 countries between 2006 and 2015. The project looks at what it cost to deliver these medicines, what drove that cost, how reliable delivery was, and how drug prices changed over time.
 
 Everything is built in Excel with formulas, PivotTables, and Goal Seek. No add-ins, macros, or Power Query are needed to open or follow the work.
+For the full business reasoning behind each cleaning choice and calculation, see the project report.
 
 ## The questions
 
